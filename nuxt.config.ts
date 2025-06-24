@@ -14,7 +14,7 @@ export default defineNuxtConfig({
     ],
   },
   // Module Configurations
-  modules: ['shadcn-nuxt', '@nuxt/icon'],
+  modules: ['shadcn-nuxt', '@nuxt/icon', '@nuxt/eslint'],
   shadcn: {
     prefix: '',
     componentDir: './components/ui'

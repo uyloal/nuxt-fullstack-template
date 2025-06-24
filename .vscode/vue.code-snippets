@@ -1,0 +1,15 @@
+{
+  "Vue TypeScript Setup Snippet": {
+    "prefix": ["vue", "vuets"],
+    "body": [
+      "<script lang=\"ts\" setup>",
+      "$1",
+      "</script>",
+      "",
+      "<template>",
+      "<div>$0</div>",
+      "</template>",
+    ],
+    "description": "Vue TypeScript setup component snippet"
+  }
+}
